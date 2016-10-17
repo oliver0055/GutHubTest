@@ -18,7 +18,7 @@ using Windows.UI.Xaml.Navigation;
 namespace App1
 {
     /// <summary>
-    /// Provides application-specific behavior to supplement the default Application class.
+    /// Provides application-specific behavior to supplement the default Application class. Test change.
     /// </summary>
     sealed partial class App : Application   
     {
